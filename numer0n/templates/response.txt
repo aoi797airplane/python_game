@@ -1,0 +1,2 @@
+$eatイート、$biteバイトです。
+$eat eat, $bite bite.

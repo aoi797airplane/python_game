@@ -1,0 +1,2 @@
+$game_nameのゲームへようこそ！あなたの名前を英語で教えてください。
+Welcome to '$game_name' game! Please enter your name in English.

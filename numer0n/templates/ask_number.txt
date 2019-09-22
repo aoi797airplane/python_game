@@ -1,0 +1,2 @@
+$user_nameさん。あなたが予想する$difficulty_digitケタの数字を教えてください。
+$user_name, please enter $difficulty_digit digits number you expect.

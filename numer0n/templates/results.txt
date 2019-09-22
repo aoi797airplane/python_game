@@ -1,0 +1,2 @@
+おめでとうございます！$user_nameさんの記録は$counter回です。
+Congratulation! $user_name's score is $counter times.
